@@ -1,2 +1,11 @@
-# pytorch_VAEs
-Implementation of Variational Autoencoders in pytorch. Includes links to papers and notebook examples.
+# Variational Autoencoders
+Implementation of Variational Autoencoders in pytorch. This is a work in progress.
+The long term goal is to have examples of different kinds of VAEs.
+
+## Basic Variational Autoencoder
+
+[VAE Notebook](./Basic VAE with MNIST.ipynb)
+
+![Image Reconstructions of FashionMNIST](./images/Fashion-conv_vae_model-reconstructions.png)
+
+![Image Generation using sampling of latent space](Fashion-conv_vae_model-latent_samples.png)
