@@ -4,8 +4,10 @@ The long term goal is to have examples of different kinds of VAEs.
 
 ## Basic Variational Autoencoder
 
-[VAE Notebook](./Basic VAE with MNIST.ipynb)
+[VAE Notebook](./Basic_VAE.ipynb)
 
-![Image Reconstructions of FashionMNIST](./images/Fashion-conv_vae_model-reconstructions.png)
+Image Reconstructions of FashionMNIST
+![](./images/Fashion-conv_vae_model-reconstructions.png)
 
-![Image Generation using sampling of latent space](Fashion-conv_vae_model-latent_samples.png)
+Image Generation using sampling of latent space
+![](./images/Fashion-conv_vae_model-latent_samples.png)
