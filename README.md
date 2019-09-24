@@ -9,9 +9,11 @@ source for those interested in learning more.
 [VAE Notebook](./Basic_VAE.ipynb)
 
 Image Reconstructions of MNIST
+
 ![](./images/MNIST-VAE-reconstructions.png)
 
 Image Generation using sampling of latent space
+
 ![](./images/MNIST-VAE-latent_samples.png)
 
 ## MADE (Masked Autoencoders for Distribution Estimation)
@@ -19,4 +21,5 @@ Image Generation using sampling of latent space
 [MADE Notebook](./MADE.ipynb)
 
 Image reconstruction of MNIST using an ensemble of masks
+
 ![](./images/MADE-ensemble-reconstructions.png)
